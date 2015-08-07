@@ -1,1 +1,2 @@
 TEST GIT
+/com/weedong/mobile
